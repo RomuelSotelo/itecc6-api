@@ -15,7 +15,7 @@ const count = ref(0)
       <img :src="viteLogo" class="vite" alt="Vite logo" />
     </div>
     <div>
-      <h1>Romuel sotelo</h1>
+      <h1>Romuel C. sotelo</h1>
       <p>Edit <code>src/App.vue</code> and save to test <code>HMR</code></p>
     </div>
     <button class="counter" @click="count++">Count is {{ count }}</button>
